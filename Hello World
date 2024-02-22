@@ -49,4 +49,8 @@ void loop() {
     digitalWrite(7,LOW);
   }
 }
+
 // This is Nassers comment
+//Moaz's edit of the file!!!
+//Dominique's edit of the file!!
+
